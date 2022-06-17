@@ -1,2 +1,4 @@
-Arquivo que será alterado tanto no local quanto no rmoto
+
+Arquivo que será alterado tanto no local quanto no remoto
 - Linha que inserir na cópia local
+- Linha que inserir na versão remota
