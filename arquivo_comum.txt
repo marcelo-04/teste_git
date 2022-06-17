@@ -1,1 +1,2 @@
 Arquivo que será alterado tanto no local quanto no rmoto
+- Linha que inserir na cópia local
